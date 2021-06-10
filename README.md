@@ -1,0 +1,1 @@
+Site voltado para os praticantes de kitesurf do Brasil
