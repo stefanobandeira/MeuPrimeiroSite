@@ -161,19 +161,32 @@ li.slick-active button{
 
 .texto-destaque{
     text-align: center;
+    font-size: 15px;
+    position: absolute;
+    
+}
+.texto-destaque strong{
+    color: #646464;
+}
+.texto-destaque h1{
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #818181;
 }
 .texto-destaque p{
     color: #9a9a9a;
+    font-size: 15px;
 }
 
 .previsao-vento iframe{
    position: relative;
-   top: 700px;
-   left: 600px;
+   top: 1300px;
+   left: 100px;
+   
 }
 .previsao-vento h1{
     position: relative;
-    top: 700px;
-    left: 600px;
+    top: 1300px;
+    left: 100px;
     color: #00bac6;
 }
