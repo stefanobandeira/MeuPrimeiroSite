@@ -190,3 +190,12 @@ li.slick-active button{
     left: 100px;
     color: #00bac6;
 }
+
+/* Manipulando as imagens depois do slider*/
+.col-3{
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 28%;
+    float: left;
+    position: relative;
+}
